@@ -1,0 +1,7 @@
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\Fredy\Desktop\Clases Virtules\IA\Chatbot\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
